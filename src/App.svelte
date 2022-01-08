@@ -41,6 +41,7 @@
 	<p>{count} * 2 = {doubled}</p>
 	<p>{doubled} * 2 = {quadrupled}</p>
 	<h1>牛逼</h1>
+	<div>luck</div>
 </main>
 
 <style>
