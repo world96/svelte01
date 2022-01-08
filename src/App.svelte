@@ -27,6 +27,7 @@
 <main>
 	<!-- INTRODUCTION -->
 	<h1>Hello {name}!</h1>
+	<h1>金榜题名</h1>
 	<h2>{count}</h2>
 	<p>{@html string}</p>
 	<!-- src={src} -->
@@ -40,7 +41,7 @@
 	</button>
 	<p>{count} * 2 = {doubled}</p>
 	<p>{doubled} * 2 = {quadrupled}</p>
-	<h1>牛逼</h1>
+	<h1>加油</h1>
 	<div>luck</div>
 </main>
 
